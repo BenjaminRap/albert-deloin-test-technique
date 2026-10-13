@@ -32,7 +32,7 @@ export default async function Home() {
 
     return (
         <Table>
-            <TableCaption>All the machines.</TableCaption>
+            <TableCaption>Machines disponilbes.</TableCaption>
                 <TableHeader>
                     <TableRow>
                         <TableHead className="w-25">Id</TableHead>
