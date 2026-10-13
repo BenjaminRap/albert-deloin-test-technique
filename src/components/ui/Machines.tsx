@@ -32,7 +32,7 @@ export default async function Home() {
 
     return (
         <Table>
-            <TableCaption>A list of your recent invoices.</TableCaption>
+            <TableCaption>All the machines.</TableCaption>
                 <TableHeader>
                     <TableRow>
                         <TableHead className="w-25">Id</TableHead>
